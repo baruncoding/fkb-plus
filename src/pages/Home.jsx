@@ -9,7 +9,7 @@ export default function Home() {
     <MainCmp  
     comp={
         <>
-            Home
+            Home main
         </>
     }
      />
